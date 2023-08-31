@@ -7,10 +7,10 @@ Os dados coletados são armazenados em um banco de dados MongoDB, facilitando um
 
 Certifique-se de ter o Python e o MongoDB instalados em seu sistema antes de executar o programa.
 
-Scrapy
-Python 3.x
-MongoDB
-Além disso, você precisará instalar algumas bibliotecas Python. Você pode fazer isso executando o seguinte comando:
+<p>Python 3.x</p>
+<p>MongoDB</p>
+
+Além disso, você precisará instalar algumas bibliotecas Python. <br /> Você pode fazer isso executando o seguinte comando:
 
 ```
 pip install scrapy
